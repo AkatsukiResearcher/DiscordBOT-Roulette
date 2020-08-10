@@ -1,0 +1,20 @@
+言語:C＃
+試作品１)
+
+(説明)
+このコードは、Visual Studio 2019を使って書いています。
+
+新規プロジェクトからコンソールアプリ(.NET Framework)を
+選択し、作成します。
+新しいプロジェクトを作成した後に、GitHubにあるProgram.csと
+Roulette1.csの中身をコピーペーストして貼り付けをします。
+
+次に、NuGetパッケージの管理から
+・Discord.NET
+
+・CSCore
+
+・Microsoft.Extensions.DependencyInjection.Abstractions
+
+・System.Linq.Async
+を導入してください。
